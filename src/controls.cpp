@@ -1,5 +1,5 @@
 #include "controls.hpp"
-#include <GLFW/glfw3.h>
+#include "GLFW/glfw3.h"
 #include "game.hpp"
 #include <vector>
 #include <cmath>

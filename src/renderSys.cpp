@@ -1,5 +1,5 @@
 #include "renderSys.hpp"
-#include <GLFW/glfw3.h>
+#include "GLFW/glfw3.h"
 #include <cmath>
 #include <vector>
 #include "game.hpp"
